@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+ }
+ 
+ *, ::after, ::before {
+     box-sizing: inherit;
+ }
+
+ .container {
+    color: #222;
+    background: #ddd;
+    font-family: 'Lato', sans-serif;
+    line-height: 2;
+}
+.container--modified {
+    background: #83f683;
+}
+
+.button {
+    height: 5vh;
+    min-width: 40%;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.button--modified {
+    font-weight: bold;
+    background-color: #ff0000;
+}
