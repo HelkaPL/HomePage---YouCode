@@ -1,4 +1,4 @@
-console.log("Witam serdecznie! Jeśli spodziewałeś się cudów... no coż.");
+console.log("Witam serdecznie! Jeśli spodziewałeś się cudów... no coż. Ale jest to już na GitHub'ie");
 
 const button = document.querySelector(".js-buttonChangeBackgroundColor");
 const trollButton = document.querySelector(".js-buttonJustForTrolling");
