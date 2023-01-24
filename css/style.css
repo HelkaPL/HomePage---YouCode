@@ -17,7 +17,7 @@ html {
 }
 
 .button {
-    height: 5vh;
+    min-height: 5vh;
     min-width: 40%;
     border-radius: 20px;
     cursor: pointer;
